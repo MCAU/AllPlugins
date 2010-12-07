@@ -17,3 +17,8 @@ This can also be aliased for your convienience:
 
     $ alias allup='git pull; git submodule update --init *'
 	$ allup
+
+## Adding a New Repository
+
+	$ git submodule add <repo path> <dirname>
+	$ git commit -m 'Adding <repo name>'
