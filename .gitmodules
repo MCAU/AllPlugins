@@ -25,3 +25,6 @@
 [submodule "NewUserAlert"]
 	path = NewUserAlert
 	url = git://github.com/MCAU/NewUserAlert.git
+[submodule "worldedit"]
+	path = worldedit
+	url = git://github.com/sk89q/worldedit.git
