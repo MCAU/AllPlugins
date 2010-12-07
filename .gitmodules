@@ -1,0 +1,3 @@
+[submodule "griefalert"]
+	path = griefalert
+	url = http://github.com/MCAU/GriefAlert.git
