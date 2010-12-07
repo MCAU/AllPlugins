@@ -7,3 +7,6 @@
 [submodule "cuboid"]
 	path = cuboid
 	url = http://github.com/MCAU/CuboidPlugin.git
+[submodule "jump"]
+	path = jump
+	url = http://github.com/MCAU/Jump.git
