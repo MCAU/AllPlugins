@@ -10,3 +10,6 @@
 [submodule "jump"]
 	path = jump
 	url = http://github.com/MCAU/Jump.git
+[submodule "mcautils"]
+	path = mcautils
+	url = http://github.com/MCAU/MCAUtils.git
