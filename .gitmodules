@@ -16,3 +16,6 @@
 [submodule "quickport"]
 	path = quickport
 	url = git://github.com/MCAU/QuickPort.git
+[submodule "magiccarpet"]
+	path = magiccarpet
+	url = git://github.com/MCAU/MagicCarpet.git
