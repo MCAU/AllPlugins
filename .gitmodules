@@ -1,3 +1,6 @@
 [submodule "griefalert"]
 	path = griefalert
 	url = http://github.com/MCAU/GriefAlert.git
+[submodule "mapmarkers"]
+	path = mapmarkers
+	url = http://github.com/MCAU/MapMarkers.git
