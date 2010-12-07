@@ -19,3 +19,6 @@
 [submodule "magiccarpet"]
 	path = magiccarpet
 	url = git://github.com/MCAU/MagicCarpet.git
+[submodule "timecop"]
+	path = timecop
+	url = git://github.com/MCAU/TimeCop.git
