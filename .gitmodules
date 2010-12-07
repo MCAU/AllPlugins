@@ -4,3 +4,6 @@
 [submodule "mapmarkers"]
 	path = mapmarkers
 	url = http://github.com/MCAU/MapMarkers.git
+[submodule "cuboid"]
+	path = cuboid
+	url = http://github.com/MCAU/CuboidPlugin.git
