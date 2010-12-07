@@ -22,3 +22,6 @@
 [submodule "timecop"]
 	path = timecop
 	url = git://github.com/MCAU/TimeCop.git
+[submodule "NewUserAlert"]
+	path = NewUserAlert
+	url = git://github.com/MCAU/NewUserAlert.git
