@@ -13,3 +13,6 @@
 [submodule "mcautils"]
 	path = mcautils
 	url = http://github.com/MCAU/MCAUtils.git
+[submodule "quickport"]
+	path = quickport
+	url = git://github.com/MCAU/QuickPort.git
