@@ -28,3 +28,6 @@
 [submodule "worldedit"]
 	path = worldedit
 	url = git://github.com/sk89q/worldedit.git
+[submodule "MCAUNerfs"]
+	path = MCAUNerfs
+	url = git://github.com/MCAU/MCAUNerfs.git
